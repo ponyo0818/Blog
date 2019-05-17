@@ -1,0 +1,8 @@
+5/17/2019
+[ A JAR] (Java ARchive) is a package file format typically used to aggregate many
+  Java class files and associated metadata and resources (text, images, etc.) 
+into one file for distribution. JAR files are archive files that include a Java-specific manifest file.
+
+[Maven] A dependency management tool
+  Maven avoids the need to discover and specify the libraries that your own dependencies require by including
+transitive dependencies automatically. 
